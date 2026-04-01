@@ -55,3 +55,4 @@ const LanguageSelector = ({ compact = false }: LanguageSelectorProps) => {
     </div>
   );
 };
+export default LanguageSelector;
