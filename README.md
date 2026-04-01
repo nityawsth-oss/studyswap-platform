@@ -45,17 +45,8 @@ It helps students learn, collaborate, and save money by reusing study resources.
 ## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
-- UI Tool: Lovable
+- UI Tool: figma
 - (Optional) Backend: Node.js / Firebase
 - (Optional) AI: OpenAI / Gemini API
 
----
-
-## 📸 Screenshots
-
-_Add your project screenshots here_
-
----
-
-## 📂 Project Structure
 
